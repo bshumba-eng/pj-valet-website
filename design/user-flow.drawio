@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="h4G1LIPssZciMnpCvzbO">
+    <mxGraphModel dx="1414" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5YjfhVfIERQUrqc0Bjmy-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Google Search" vertex="1">
+          <mxGeometry height="60" width="120" x="70" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5YjfhVfIERQUrqc0Bjmy-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Homepage" vertex="1">
+          <mxGeometry height="60" width="120" x="70" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="5YjfhVfIERQUrqc0Bjmy-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Packages" vertex="1">
+          <mxGeometry height="60" width="120" x="70" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="5YjfhVfIERQUrqc0Bjmy-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Choose Package" vertex="1">
+          <mxGeometry height="60" width="120" x="70" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="5YjfhVfIERQUrqc0Bjmy-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Booking Form" vertex="1">
+          <mxGeometry height="60" width="120" x="70" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="5YjfhVfIERQUrqc0Bjmy-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Stripe Payment" vertex="1">
+          <mxGeometry height="60" width="120" x="70" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="5YjfhVfIERQUrqc0Bjmy-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Confirmation" vertex="1">
+          <mxGeometry height="60" width="120" x="70" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="5YjfhVfIERQUrqc0Bjmy-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Email" vertex="1">
+          <mxGeometry height="60" width="120" x="70" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="5YjfhVfIERQUrqc0Bjmy-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="PJ Receives Booking" vertex="1">
+          <mxGeometry height="60" width="120" x="70" y="830" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
